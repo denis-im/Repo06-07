@@ -1,0 +1,27 @@
+h1 {
+  color: darkred;
+  text-align: center;
+}
+
+.card {
+  padding: 5px;
+}
+
+.title {
+  margin: 5px;
+  color: lightblue;
+  font-size: 12px;
+}
+
+.description {
+  width: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+  font-size: 10px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
